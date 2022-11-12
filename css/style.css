@@ -100,7 +100,11 @@
         /* display: grid; */
         margin-right: 56px;
     }
-   
+    
+    .navbar {
+        margin-left: 40px;
+       
+    }
 
 
 
